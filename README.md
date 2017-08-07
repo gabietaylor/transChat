@@ -4,6 +4,6 @@
 
 ### Click on pics for link to page!!
 # SignIn
-[![Alt text](trans.png)](https://pillarsproject.herokuapp.com/plinth/trans)
+[![Alt text](trans.png)](https://pillarsproject.herokuapp.com/plinth/transgender)
 # Chat
-[![Alt text](trans1.png)](https://pillarsproject.herokuapp.com/plinth/trans)
+[![Alt text](trans1.png)](https://pillarsproject.herokuapp.com/plinth/transgender)
